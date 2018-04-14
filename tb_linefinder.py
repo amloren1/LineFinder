@@ -121,8 +121,8 @@ import os,sys
 
 
 #Default input/output files necessary for running
-initinspec='test.ascii'
-initllist='linelist.lst'
+initinspec='/home/mows/Scripts/AST 523/LineFinder/lb1v15010.dat'
+initllist='/home/mows/Scripts/AST 523/LineFinder/HI.lst'
 initlog='linefinder.log'
 
 

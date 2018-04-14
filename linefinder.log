@@ -1,0 +1,8 @@
+#!Line List: /home/mows/Scripts/AST 523/LineFinder/HI.lst
+#!Spectrum: /home/mows/Scripts/AST 523/LineFinder/lb1v15010.dat
+#z;		Ion;	line;	flag;	vmin;	vmax;	Notes;	colour
+0.54492;	HI;	LLS;	1;	-50.0;	50.0;	;	r;
+0.54492;	HI;	920;	1;	-176.463863457;	65.4743893701;	;	r;
+0.54492;	HI;	917;	1;	-165.275910246;	50.0;	;	r;
+0.54492;	HI;	915;	1;	-137.36244692;	71.3826047512;	;	r;
+0.54492;	HI;	914;	1;	-50.0;	72.7063160491;	;	r;
